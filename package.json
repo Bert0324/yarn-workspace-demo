@@ -8,6 +8,6 @@
     "lerna": "^4.0.0"
   },
   "scripts": {
-    "pub": "lerna publish"
+    "pub": "lerna publish --access public"
   }
 }
