@@ -1,6 +1,6 @@
 {
   "name": "@yarn-workspace/p2",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "gitHead": "fcfc09695acc81bab52123ee6094a485b37fbb27"
 }
