@@ -1,0 +1,13 @@
+{
+  "name": "yarn-workspace",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "lerna": "^4.0.0"
+  },
+  "scripts": {
+    "pub": "lerna publish"
+  }
+}
